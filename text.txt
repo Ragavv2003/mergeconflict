@@ -1,1 +1,1 @@
-city: chennal
+city: bangalore
